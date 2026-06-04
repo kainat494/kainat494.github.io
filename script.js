@@ -125,8 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Terminal Typing Effect
   const commands = [
     "whoami",
-    "Muhammad Zeeshan - Lead Security Engineer",
-    "cat /etc/passwd | grep threats",
+    "Kainat Siddiquecat /etc/passwd | grep threats",
     "1000+ threats detected and mitigated",
     "ps aux | grep soc",
     "24/7 SOC monitoring active",
@@ -344,7 +343,7 @@ if (contactForm && submitBtn) {
       // Show error message
       if (formStatus) {
         formStatus.textContent =
-          "Failed to send message. Please try again or contact me directly at muhammadzeeshan494@gmail.com";
+          "Failed to send message. Please try again or contact me directly at ksaddiq25@gmail.com";
         formStatus.className = "form-status error";
         formStatus.style.display = "block";
       }
@@ -504,7 +503,7 @@ if (contactForm && submitBtn) {
   }
 
   // Resume download tracking
-  const resumeDownloadBtn = document.querySelector('a[download="Muhammad_Zeeshan_Resume.pdf"]')
+  const resumeDownloadBtn = document.querySelector('a[download="Kainat Siddique.pdf"]')
   if (resumeDownloadBtn) {
     resumeDownloadBtn.addEventListener("click", () => {
       console.log("Resume downloaded")
@@ -540,7 +539,7 @@ if (contactForm && submitBtn) {
   createSecurityScanEffect()
 
   console.log("🔒 Enhanced Security Portfolio Initialized")
-  console.log("👨‍💻 Muhammad Zeeshan - Lead Security Engineer")
+  console.log("👨‍💻 Kainat Siddique - Security Engineer")
   console.log("🛡️ All systems operational with enhanced cyber effects")
   console.log("🌓 Theme switching enabled")
   console.log("🔄 All animations and rotations active")
