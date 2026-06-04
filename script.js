@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Terminal Typing Effect
   const commands = [
     "whoami",
-    "Kainat Siddiquecat /etc/passwd | grep threats",
+    "Kainat Siddique cat /etc/passwd | grep threats",
     "1000+ threats detected and mitigated",
     "ps aux | grep soc",
     "24/7 SOC monitoring active",
