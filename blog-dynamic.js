@@ -197,10 +197,10 @@ class DynamicBlog {
         
         <div class="card-footer">
           <div class="card-author">
-            <img src="profile.jpg" alt="Muhammad Zeeshan" class="card-author-avatar">
+            <img src="profile.jpg" alt="Kainat Siddique" class="card-author-avatar">
             <div class="card-author-info">
-              <span class="card-author-name">Muhammad Zeeshan</span>
-              <span class="card-author-title">Lead Security Engineer</span>
+              <span class="card-author-name">Kainat Siddique</span>
+              <span class="card-author-title">Security Engineer</span>
             </div>
           </div>
           
@@ -255,10 +255,10 @@ class DynamicBlog {
           </div>
           <h1 class="post-title">${post.title}</h1>
           <div class="post-author">
-            <img src="profile.jpg" alt="Muhammad Zeeshan" class="author-avatar">
+            <img src="profile.jpg" alt="Kainat Siddique" class="author-avatar">
             <div class="author-info">
-              <span class="author-name">Muhammad Zeeshan</span>
-              <span class="author-title">Lead Security Engineer</span>
+              <span class="author-name"Kainat Siddique</span>
+              <span class="author-title">Security Engineer</span>
             </div>
           </div>
         </div>
